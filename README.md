@@ -13,6 +13,8 @@ Sempre mantendo o texto **Pergunta** e **Resposta** no nome de cada arquivo, par
 
 Cada proposta de desafio deve estar completa o suficiente para que estudantes com interesse em resolver tenham todos os detalhes no arquivo. A resposta estará em outro arquivo de mesmo nome, para conferencia :)
 
+Para alcançar mais pessoas, é recomendado que o código seja feito em **Jupyter Notebook** e que possa ser executado diretamente no **Google Colab**.
+
 ## Como colaborar?
 Esta playlist tem vídeos explicativos para ajudar no seu aprendizado de **Colaboração em Projetos**: https://www.youtube.com/playlist?list=PLrakQQfctUYX37CRv3fomYfKwDe0NLmsk
 
