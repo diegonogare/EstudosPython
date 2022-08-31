@@ -18,7 +18,7 @@ Para alcançar mais pessoas, é recomendado que o código seja feito em **Jupyte
 ## Como colaborar?
 Esta playlist tem vídeos explicativos para ajudar no seu aprendizado de **Colaboração em Projetos**: https://www.youtube.com/playlist?list=PLrakQQfctUYX37CRv3fomYfKwDe0NLmsk
 
-Sempre que pensar em um novo desafio e quiser colaborar com o projeto, **clone este repositório** e adicione os arquivos no seu *repo*. Faça um **Pull Request** para o projeto original que está centralizando os desafios. Ao receber os PR, vou conferir se estão rodando de forma completa (com a explicação e resposta do desafio), e faço a incorporação ao projeto centralizado.
+Sempre que pensar em um novo desafio e quiser colaborar com o projeto, **faça um *Fork* deste repositório** e adicione os arquivos no seu *repo*. Faça um **Pull Request** para o projeto original que está centralizando os desafios. Ao receber os PR, vou conferir se estão rodando de forma completa (com a explicação e resposta do desafio), e faço a incorporação ao projeto centralizado.
 
 ## Importante
 Este repositório tem o objetivo de ajudar estudantes a aprender Python, não há juízo de valor sobre o tipo de problema ou a complexidade apresentada. Cada estudante tem seu tempo e sua forma de aprender, todos estes caminhos são válidos e terão espaço neste repositório.
